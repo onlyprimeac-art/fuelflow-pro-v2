@@ -1,0 +1,10 @@
+{
+  "name": "FuelFlow Pro v2",
+  "description": "Comprehensive petrol pump management system with billing, inventory, customer credit tracking, and thermal printer support.",
+  "requestFramePermissions": [
+    "bluetooth",
+    "usb"
+  ],
+  "C7": [],
+  "aq": []
+}
